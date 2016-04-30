@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./alifegeorgewash02glasgoog_0035.png"; bbox 0 0 2814 4590; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 272 521 834 585">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 272 521 834 585">
+     <span class='ocr_line' id='line_1_1' title="bbox 272 521 834 585; baseline -0.011 -1"><span class='ocrx_word' id='word_1_1' title='bbox 272 521 351 584; x_wconf 86' lang='lat' dir='ltr'><strong>xviii</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 626 531 834 585; x_wconf 68' lang='lat' dir='ltr'>nooman.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 321 674 1166 762">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 321 674 1166 762">
+     <span class='ocr_line' id='line_1_2' title="bbox 321 674 1166 762; baseline 0.005 -20"><span class='ocrx_word' id='word_1_3' title='bbox 321 676 439 762; x_wconf 77' lang='lat' dir='ltr'><strong>Scripsi</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 469 674 577 740; x_wconf 83' lang='lat' dir='ltr'><strong>Tertio</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 608 675 684 739; x_wconf 85' lang='lat' dir='ltr'>Idus</span> <span class='ocrx_word' id='word_1_6' title='bbox 717 677 835 754; x_wconf 81' lang='lat' dir='ltr'><strong>Martii,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 866 679 962 742; x_wconf 88' lang='lat' dir='ltr'><strong>Anno</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 992 679 1113 744; x_wconf 77' lang='lat' dir='ltr'><strong>Salutis</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1142 681 1166 746; x_wconf 69' lang='grc' dir='ltr'><strong>ἰι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 279 802 1165 1014">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 279 802 1165 1014">
+     <span class='ocr_line' id='line_1_3' title="bbox 279 802 1165 886; baseline 0.002 -18"><span class='ocrx_word' id='word_1_10' title='bbox 279 803 408 870; x_wconf 85' lang='lat' dir='ltr'><strong>Christo</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 431 813 621 886; x_wconf 62' lang='lat' dir='ltr'><strong>recuperatae</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 637 802 811 867; x_wconf 83' lang='lat' dir='ltr'>Millesimo</span> <span class='ocrx_word' id='word_1_13' title='bbox 828 803 1105 886; x_wconf 81' lang='lat' dir='ltr'><strong>Octingentesimo</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1119 806 1165 870; x_wconf 87' lang='lat' dir='ltr'><strong>vi-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 279 929 953 1014; baseline 0 -20"><span class='ocrx_word' id='word_1_15' title='bbox 279 930 397 994; x_wconf 77' lang='lat' dir='ltr'><strong>cesimo</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 411 940 533 1014; x_wconf 79' lang='lat' dir='ltr'><strong>quarto,</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 547 929 580 992; x_wconf 89' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 593 929 772 1014; x_wconf 65' lang='lat' dir='ltr'><strong>Republica</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 786 929 953 996; x_wconf 72' lang='lat' dir='ltr'><strong>Ohio&#39;ensi.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1412 4590">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1412 4590">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1412 4590; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1412 4590; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
